@@ -1,0 +1,7 @@
+vendor
+
+.env
+package-lock.json
+composer.lock
+# Don't ignore .gitignore
+!.gitignore
